@@ -6,7 +6,9 @@ This project is built with Laravel and Vue.js.
 
 Rename `.env.example` to `.env` and fill the options.
 
+
 Run the following commands:
+
 
 ```
 composer install
