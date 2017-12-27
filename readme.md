@@ -21,3 +21,4 @@ php artisan serve
 ```
 
 If you are making changes to JavaScript or Styles make sure you run `gulp watch`.
+
